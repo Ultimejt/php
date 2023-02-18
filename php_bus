@@ -1,0 +1,3 @@
+echo muj soubor;
+int x = 11;
+double a,b;
